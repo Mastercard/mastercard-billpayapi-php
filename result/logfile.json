@@ -1,0 +1,22 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 1
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\BillpayAPI\\RPPSPaymentValidatorAPITest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\BillpayAPI\\RPPSPaymentValidatorAPITest",
+    "test": "MasterCard\\Api\\BillpayAPI\\RPPSPaymentValidatorAPITest::test_example_billpay_routing_validation_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\BillpayAPI\\RPPSPaymentValidatorAPITest",
+    "test": "MasterCard\\Api\\BillpayAPI\\RPPSPaymentValidatorAPITest::test_example_billpay_routing_validation_request",
+    "status": "pass",
+    "time": 0.4327118396759,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
